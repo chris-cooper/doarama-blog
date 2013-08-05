@@ -1,4 +1,4 @@
 name: Doarama blog
 markdown: redcarpet
 pygments: true
-baseurl: /doarama-blog
+
