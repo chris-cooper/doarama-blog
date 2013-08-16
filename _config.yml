@@ -1,4 +1,6 @@
-name: Doarama blog
+name: Doarama Blog
 markdown: redcarpet
 pygments: true
 baseurl: /doarama-blog
+description: The blog for www.doarama.com
+url: http://blog.doarama.com

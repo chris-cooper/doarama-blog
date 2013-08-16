@@ -6,6 +6,7 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
         <link rel="shortcut icon" type="image/png" href="http://www.doarama.com/assets/images/favicon32.png">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
@@ -23,9 +24,15 @@
         <div class="container">
           <div class="site well">
             <div class="header">
+              <p class="text-right">
+              <a href="feed.xml" rel="alternate" type="application/rss+xml" target="_blank">
+                <img src="{{ site.url }}/assets/feed-icon-28x28.png" alt=""/>
+              </a>
+              </p>
               <h3 class="title text-center">
               <a href="http://www.doarama.com"><img src="http://www.doarama.com/assets/images/doarama_150.png"></a>
               blog</h3>
+
               <br>
               <a class="extra" href="/">Home</a>
               <hr>
