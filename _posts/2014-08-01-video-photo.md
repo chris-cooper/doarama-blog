@@ -35,7 +35,7 @@ There are a number of changes included in this rollout, and we'll continue to wo
 * Updated 3D map display allowing you to jump in time e.g. to the start of a video or text comment by clicking on the dot, icon or text.
 * Using [STK World Terrain](http://cesiumjs.org/data-and-assets/terrain/stk-world-terrain.html) which has more detailed terrain data, particularly in Australia, Europe and USA.
 
-![Edit UI]({{ site.url }}/assets/2014-08-01-edit-ui.jpg)
-
 There have also been some updates to the [Doarama Terms of Use](http://www.doarama.com/terms) to support the use of photos and videos.
 The Doarama API will also be updated to support the new photo, video and text comment functionality in due course.
+
+![Edit UI]({{ site.url }}/assets/2014-08-01-edit-ui.jpg)
