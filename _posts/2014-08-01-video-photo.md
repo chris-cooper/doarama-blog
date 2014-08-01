@@ -6,9 +6,9 @@ categories: doarama
 ---
 
 
-[]()One of our most common support requests is to be able to add synchronised photos and video to the 3D map visualisation provided by Doarama&trade;.
+[]()One of our most common support requests is to be able to add synchronised photos, video to the 3D map visualisation provided by Doarama&trade;.
 We are excited to announce that we have just rolled out a range of changes to support this functionality via the YouTube and Instagram APIs.
-Let's start with a couple of examples.
+Let's start with a couple of examples (click to view).
 
 First up is Don Vella mountain biking on the Oaks Fire Trail single track in the Blue Mountains west of Sydney, Australia.
 
@@ -24,16 +24,16 @@ Next is a bike ride by Chris Cooper in north western Sydney with a slide show of
 
 Many thanks to Don, Simon and Chris for providing these examples which have been extremely helpful during development.
 
-Note that there are a number of features included in this rollout.
+There are a number of changes included in this rollout.
 
-* New picture-in-picture control for displaying video and photos
-* Revised text comment feature
-* New edit UI (shown below)
-* New time slider which shows when media is present and with improved usability on touch devices
-* Updated 3D map display allowing you to jump in time e.g. to the start of a video by clicking on the dot or icon
+* New picture-in-picture control for displaying video and photos.
+* Revised text comment feature.
+* New edit UI (shown below).
+* New time slider which shows when media is present.  It also has improved usability on touch devices.
+* Updated 3D map display allowing you to jump in time e.g. to the start of a video by clicking on the dot or icon.
 * Using [STK World Terrain](http://cesiumjs.org/data-and-assets/terrain/stk-world-terrain.html) which has more detailed terrain data, particularly in Australia, Europe and USA.
 
-[Edit UI]({{ site.url }}/assets/2014-08-01-edit-ui.jpg)
+![Edit UI]({{ site.url }}/assets/2014-08-01-edit-ui.jpg)
 
 There have also been some updates to the [Doarama Terms of Use](http://www.doarama.com/terms) to support the use of photos and videos.
 The Doarama API will be updated to support the new photo, video and text comment functionality in due course.
