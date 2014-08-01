@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Photos, video and more..."
+title:  "Video, photos and more..."
 date:   2014-08-01
 categories: doarama
 ---
