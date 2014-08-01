@@ -8,13 +8,14 @@ categories: doarama
 
 []()One of our most common support requests is to be able to add synchronised photos and video to the 3D map visualisation provided by Doarama&trade;.
 We are excited to announce that we have just rolled out a range of changes to support this functionality via the YouTube and Instagram APIs.
-Let's start with a couple of examples (click to view).  In our testing synchronised video works best in Google Chrome browser.
+In our testing synchronised video works best in Google Chrome browser, and even surprisingly well on Nexus 5.
+Let's start with a couple of examples (click to view).
 
 First up is Don Vella mountain biking on the Oaks Fire Trail single track in the Blue Mountains west of Sydney, Australia.
 
 [![Mountain Biking]({{ site.url }}/assets/2014-08-01-mtb.jpg)](http://www.doarama.com/view/8135)
 
-Next is Simon Wilks with a Wing Wing Z-84 Autonomous Flight in the Swiss Alps.  More detail on this flight can be found [here](https://www.youtube.com/watch?v=RK6j2pEe-xM)
+Next is Simon Wilks with a Wing Wing Z-84 autonomous flight in the Swiss Alps.  More detail on this flight can be found [here](https://www.youtube.com/watch?v=RK6j2pEe-xM)
 
 [![Autonomous Flight]({{ site.url }}/assets/2014-08-01-autonomous.jpg)](http://www.doarama.com/view/8138)
 
