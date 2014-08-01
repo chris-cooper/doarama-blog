@@ -6,7 +6,7 @@ categories: doarama
 ---
 
 
-[]()One of our most common support requests is to be able to add synchronised photos, video to the 3D map visualisation provided by Doarama&trade;.
+[]()One of our most common support requests is to be able to add synchronised photos and video to the 3D map visualisation provided by Doarama&trade;.
 We are excited to announce that we have just rolled out a range of changes to support this functionality via the YouTube and Instagram APIs.
 Let's start with a couple of examples (click to view).  In our testing synchronised video works best in Google Chrome browser.
 
