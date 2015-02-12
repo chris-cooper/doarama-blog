@@ -17,6 +17,7 @@ In summary...
 * Bulk uploads directly from your activity list by either drag and drop or file browser.
 * Bulk editing of info such as activity type, description, display label etc.
 * Random avatars to help visually distinguish multiple users in a visualisation.
+* Icons for activity types.
 * Revised "It seems you weren't alone" page that has two separate lists depending on whether you or someone else uploaded tracks.
 
 Thanks to all the users who requested this functionality, as your suggestions have helped inform the design.
