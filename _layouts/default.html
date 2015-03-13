@@ -1,54 +1,60 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
-        <link rel="shortcut icon" type="image/png" href="http://www.doarama.com/assets/images/favicon32.png">
-        <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" type="image/png" href="http://www.doarama.com/assets/images/favicon32.png">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
+    <!-- Custom CSS -->
+    <link href='//fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//www.doarama.com/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" media="screen" href="//www.doarama.com/assets/stylesheets/main.css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css">
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-41971002-1', 'doarama.com');
+      ga('send', 'pageview');
+    </script>
+  </head>
+  <body>
 
+    <div class="site container no-well">
+      <div class="header">
+        <p class="text-right">
+        <a href="{{ site.url }}/feed.xml" rel="alternate" type="application/rss+xml" target="_blank">
+          <img src="{{ site.url }}/assets/feed-icon-28x28.png" alt=""/>
+        </a>
+        </p>
+        <h3 class="title text-center">
+        <a href="http://www.doarama.com"><img src="http://www.doarama.com/assets/images/doarama_150.png"></a>
+        blog</h3>
 
-        <link href='//fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
-        <link href='//fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="//www.doarama.com/assets/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" media="screen" href="//www.doarama.com/assets/stylesheets/main.css">
-        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-		<link rel="stylesheet" href="/css/main.css">
-		
-    </head>
-    <body>
+        <br>
+        <a class="extra" href="/">Home</a>
+        <hr>
+      </div>
 
-        <div class="site container no-well">
-            <div class="header">
-              <p class="text-right">
-                <a href="{{ site.url }}/feed.xml" rel="alternate" type="application/rss+xml" target="_blank">
-                  <img src="{{ site.url }}/assets/feed-icon-28x28.png" alt=""/>
-                </a>
-              </p>
-              <h3 class="title text-center">
-              <a href="http://www.doarama.com"><img src="http://www.doarama.com/assets/images/doarama_150.png"></a>
-              blog</h3>
+        {{ content }}
 
-              <br>
-              <a class="extra" href="/">Home</a>
-              <hr>
-            </div>
+      <div class="footer text-center">
+        <br>
+        <div class="contact">
+        <p><a href="mailto:support@doarama.com"><i class="icon-envelope-alt icon-fixed-width"></i>support@doarama.com</a></p>
+        </div>
+      </div>
+    </div> <!-- /container -->
 
-                {{ content }}
-
-            <div class="footer text-center">
-              <br>
-              <div class="contact">
-                <p><a href="mailto:support@doarama.com"><i class="icon-envelope-alt icon-fixed-width"></i>support@doarama.com</a></p>
-              </div>
-            </div>
-        </div> <!-- /container -->
-
-    </body>
+  </body>
 </html>
