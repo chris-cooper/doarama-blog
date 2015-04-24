@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta muted">{{ page.date | date_to_string }}</p>
+<article class="post">
 
+<h2>{{ page.title }}</h2>
+<p class="meta text-muted"><small>{{ page.date | date_to_string }}</small></p>
+{% include post-tags.html %}
+<br>
 <div class="post">
 {{ content }}
 </div>
+</article>

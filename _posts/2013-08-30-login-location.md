@@ -3,9 +3,10 @@ layout: post
 title:  "Logins, locations and API rumours"
 date:   2013-08-30
 categories: doarama
+- technical
 ---
 
-Firstly, thanks to all the users who have been uploading, testing and sharing Doaramas.  There has been a lot of helpful feedback, suggestions and bug reports.  This is valuable for us and helps us decide the future direction of the service so please don't hesitate to contact us.
+Firstly, thanks to all the users who have been uploading, testing and sharing Doarama&trade; visualizations.  There has been a lot of helpful feedback, suggestions and bug reports.  This is valuable for us and helps us decide the future direction of the service so please don't hesitate to contact us.
 
 ### Log In UX
 

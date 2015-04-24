@@ -3,6 +3,8 @@ layout: post
 title:  "Miscellaneous things"
 date:   2014-04-16
 categories: doarama
+tags:
+- technical
 ---
 
 [![Elevation]({{ site.url }}/assets/2014-04-16-elevation.jpg)](http://www.doarama.com/view/2171)

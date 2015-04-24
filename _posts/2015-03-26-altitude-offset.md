@@ -3,6 +3,8 @@ layout: post
 title:  "Altitude Offset"
 date:   2015-03-26
 categories: doarama
+tags:
+- technical
 ---
 
 []()

@@ -3,6 +3,9 @@ layout: post
 title:  "Video, photos and more..."
 date:   2014-08-01
 categories: doarama
+tags:
+- technical
+- social
 ---
 
 

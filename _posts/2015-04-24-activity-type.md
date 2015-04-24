@@ -3,6 +3,8 @@ layout: post
 title:  "Activity type is important!"
 date:   2015-04-24
 categories: doarama
+tags:
+- technical
 ---
 
 []()

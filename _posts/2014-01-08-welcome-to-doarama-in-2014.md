@@ -3,6 +3,10 @@ layout: post
 title:  "Welcome to Doarama&trade; in 2014!"
 date:   2014-01-08
 categories: doarama
+tags:
+- api
+- news
+- live
 ---
 
 #### Live tracking

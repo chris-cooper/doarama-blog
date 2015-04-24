@@ -3,6 +3,8 @@ layout: post
 title:  "Doarama wins Silicon Valley Explorer Award @ Tech23"
 date:   2014-10-27
 categories: doarama
+tags:
+- news
 ---
 
 

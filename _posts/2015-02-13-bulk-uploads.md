@@ -3,6 +3,8 @@ layout: post
 title:  "Bulk uploads and avatars"
 date:   2015-02-13
 categories: doarama
+tags:
+- technical
 ---
 
 []()

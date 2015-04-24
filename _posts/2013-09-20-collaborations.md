@@ -3,6 +3,9 @@ layout: post
 title:  "YALLDO Flying and the 40th Coupe Icare"
 date:   2013-09-20
 categories: doarama
+tags:
+- api
+- news
 ---
 
 

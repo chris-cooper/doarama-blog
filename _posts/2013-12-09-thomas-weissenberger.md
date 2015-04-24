@@ -3,6 +3,8 @@ layout: post
 title:  "Tom Weissenberger's hang-gliding world record"
 date:   2013-12-09
 categories: doarama
+tags:
+- news
 ---
 
 [![Tom Weissenberger]({{ site.url }}/assets/2013-12-09-tom-weissenberger.jpg)](http://www.doarama.com/view/2860)

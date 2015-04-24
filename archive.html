@@ -1,0 +1,25 @@
+---
+layout: default
+title: Doarama Blog Archives
+permalink: /archive/
+---
+
+<h3>Archive</h3>
+<ul>
+  {% for post in site.posts %}
+
+    {% unless post.next %}
+      <br><h4>{{ post.date | date: '%Y' }}</h4>
+    {% else %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <br><h4>{{ post.date | date: '%Y' }}</h4>
+      {% endif %}
+    {% endunless %}
+
+    <a href="{{ post.url }}">{{ post.title }}</a><br>
+        <small><span class="text-muted">{{ post.date | date_to_string }}</span></small><br>
+
+  {% endfor %}
+</ul>
