@@ -18,4 +18,4 @@ Regular Doarama&trade; users may have noticed some subtle changes which we have 
 
 Quite a range of changes have been incorporated in this release so please don't hesitate to let us know if something is not working as expected. 
 
-We are also pleased that more services are starting to incorporate Doarama&trade; visualisations via the [Doarama&trade; API](http://api.doarama.com/api/0.2/docs).
+We are also pleased that more services are starting to incorporate Doarama&trade; visualizations via the [Doarama&trade; API](http://api.doarama.com/api/0.2/docs).
