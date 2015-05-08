@@ -9,9 +9,9 @@ tags:
 ---
 
 
-[]()One of our most common support requests is to be able to add synchronised photos and video to the 3D map visualization provided by Doarama&trade;.
+[]()One of our most common support requests is to be able to add synchronized photos and video to the 3D map visualization provided by Doarama&trade;.
 We are excited to announce that we have just rolled out a range of changes to support this functionality via the YouTube and Instagram APIs.
-In our testing synchronised video works best in Google Chrome browser, and even surprisingly well on Nexus 4 & 5 (you may need to press play/pause a couple of times for the video to work on Nexus).
+In our testing synchronized video works best in Google Chrome browser, and even surprisingly well on Nexus 4 & 5 (you may need to press play/pause a couple of times for the video to work on Nexus).
 Let's start with a couple of examples (click to view).
 
 First up is Don Vella mountain biking on the Oaks Fire Trail single track in the Blue Mountains west of Sydney, Australia.
