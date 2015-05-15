@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Video snippets"
-date:   2015-05-28
+date:   2015-05-08
 categories: doarama
 tags:
 - technical
