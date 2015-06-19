@@ -18,7 +18,7 @@ Microsoft's Hyperlapse software provides a really nice smooth speedup of video. 
 
 Since hyperlapse video is so complementary to the Doarama&trade; experience, we are pleased to announce that you can now incorporate hyperlapse video into your Doarama&trade; visualizations!  Thanks to Jukka Alander for providing the example above.
 
-When synchronizing your video, just enter the same speedup factor that you used in the hyperlapse software into the **Video speed** field.  Note that Microsoft's Hyperlapse algorithm does tend to smooth the movement so synchronization may drift, particularly during stop-start movement.
+When synchronizing your video, just enter the same speedup factor that you used in the hyperlapse software into the **Video speed** field.  Note that Microsoft's Hyperlapse algorithm does tend to smooth the movement so synchronization may drift, particularly during stop-start motion.
 
 ![Hyperlapse]({{ site.url }}/assets/2015-06-19-hyperlapse.png)
 
