@@ -28,5 +28,5 @@ Locations of activities are now recorded when you upload a file.
 
 ### API
 
-We have had a number of requests for an API to allow creating Doaramas from sites that already host gps track files.  We are starting to work towards supporting this functionality...
+We have had a number of requests for an API to allow creating Doarama&trade; visualizations from sites that already host gps track files.  We are starting to work towards supporting this functionality...
 
