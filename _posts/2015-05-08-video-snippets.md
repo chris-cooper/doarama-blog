@@ -5,6 +5,7 @@ date:   2015-05-08
 categories: doarama
 tags:
 - technical
+- video
 ---
 
 []()

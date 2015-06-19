@@ -6,6 +6,7 @@ categories: doarama
 tags:
 - technical
 - social
+- video
 ---
 
 
