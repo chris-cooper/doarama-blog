@@ -1,0 +1,416 @@
+.aspectwrapper {
+  width: 100%; /*whatever width you want*/
+  display: inline-block;
+  position: relative;
+}
+
+.aspectwrapper:after {
+  padding-top: 42.5%; /* 2.35:1 */
+  display: block;
+  content: '';
+}
+
+.aspectmain {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0; /*fill parent*/
+  background-color: rgb(0, 140, 200); /*let's see it!*/
+}
+
+/*
+body,p {
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}*/
+
+/*
+.navbar {
+	background-color: rgba(255, 255, 255, 0.90);
+	background-image: none;
+	background-repeat: no-repeat;
+	filter: none;
+}
+*/
+.well {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.no-well {
+  padding: 20px;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.5);
+  background-color: white;
+}
+
+.brand {
+  opacity: 0.7;
+}
+
+.navbar-image {
+  margin-top: -24px;
+  margin-bottom: -20px;
+  height: 33px;
+}
+
+.feed-item {
+   padding: 5px !important;
+   margin: 0 !important;
+}
+
+.feed-thumb {
+   padding: 5px !important;
+   margin: 0 !important;
+}
+
+.feed-avatar {
+  vertical-align: top;
+  text-align: center;
+}
+
+.pill-style {
+  margin-right: 5px;
+  display: inline-block;
+  cursor: default;
+}
+
+.thumbnail {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.scrollable-dropdown {
+  height: auto;
+  max-height: 200px;
+  overflow-x: hidden;
+}
+
+/* Overriding some Leaflet class properties */
+.leaflet-control-layers
+{
+  display: none;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius:5px !important;
+}
+
+.leaflet-popup-content {
+  margin: 5px 19px !important;
+}
+
+hr {
+  border-color: #DDDDDD;
+  border-width: 1px 0;
+}
+
+/*
+.carousel-caption {
+      padding: 0 0;
+      top: 5px;
+      right: 10px;
+      text-align:right;
+      font-size:120%;
+}
+
+.carousel-indicators {
+	bottom: -40px;
+	left: 50px;
+}
+
+.carousel-indicators li {
+	border: 1px solid #333333;
+}
+
+.carousel-indicators .active {
+	background-color: #428bca;
+}*/
+
+.landing-heading {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: normal;
+  font-size: 40px;
+  line-height:200%
+}
+
+.landing-icon {
+  line-height: 50px;
+}
+
+.carousel-caption {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  text-shadow: 0px 0px 5px black;
+}
+
+.item img {
+  max-width: 1130px;
+}
+
+@link-color:       @brand-primary;
+@link-hover-color: darken(@link-color, 15%);
+
+.landing a {
+  color: @link-color;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 12px;
+
+  &:hover {
+    color: @link-hover-color;
+    text-decoration: underline;
+  }
+}
+
+ @media (max-width: 1150px) { 
+.carousel-wrap {
+  margin: -0px -20px;
+}
+}
+
+.activity-type-icon {
+  margin: 2px;
+  width: 20px;
+  height: 20px;
+}
+
+.activity-type-icon-padded {
+  margin: 10px 2px;
+  width: 20px;
+  height: 20px;
+}
+
+.activity-type-icon-small {
+  margin-top: -6px;
+  margin-bottom: -4px;
+  width: 15px;
+  height: 15px;
+}
+
+.activity-type-icon-faded {
+  opacity: 0.4;
+}
+
+.user-avatar {
+  width: 50px;
+  height: 50px;
+}
+
+.user-avatar-lg {
+  width: 120px;
+  height: 120px;
+}
+
+.user-avatar-sm {
+  width: 32px;
+  height: 32px;
+}
+
+.leaflet-vis {
+  margin: 0px -10px;
+  max-width: 220px;
+}
+
+.leaflet-vis .user-avatar {
+  height: 40px;
+  width: 40px;
+}
+
+.vis-panel-table {
+  border-spacing: 10px;
+  border-collapse: separate;
+  color: rgb(51, 51, 51);
+  text-decoration: none;
+}
+
+.vis-panel-user, .vis-view-user  {
+  display: inline-block;
+  word-wrap: break-word;
+}
+
+.vis-panel-user {
+    max-width: 150px;
+}
+
+.vis-view-user {
+  max-width: 100%;
+  padding-right: 8px;
+  padding-bottom: 3px;
+}
+
+.vis-grid {
+  position: relative;
+}
+
+.vis-grid-fader {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #FFF;
+  opacity: 0.6;
+}
+
+.filter-button-container {
+  display: table-cell;
+  padding: 5px;
+}
+
+.filter-crumbs {
+  display: table-cell;
+}
+
+.sorting-controls {
+  display: table-cell;
+}
+
+.filter-crumb-content {
+  opacity: 0.75;
+}
+
+.bigstat {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.stats-panel {
+  word-wrap: break-word;
+}
+
+.social-wrapper {
+  padding-left: 5px;
+  margin-bottom: 20px;
+}
+
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding-right: 2px;
+  padding-left: 2px;
+}
+
+.social-icon .fa {
+  font-size: 1em;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1.0);
+  opacity: 0.8;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.1s ease-in-out;
+  border-radius: 50%;
+}
+
+.social-icon-lrg .fa {
+  font-size: 1.8em;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+}
+
+.social-icon .fa:hover{
+  transform: scale(1.11);
+  opacity: 1.0;
+}
+
+.social-icon .fa-facebook {
+  background-color: #3C599F;
+}
+
+.social-icon .fa-google-plus {
+  background-color: #CF3D2E;
+}
+
+.social-icon .fa-twitter {
+  background-color: #32CCFE;
+}
+
+.social-icon .fa-rss {
+  background-color: #FF7300;
+}
+
+.fa-invisible {
+  visibility: hidden;
+}
+
+.media-button:hover, .upload-panel-button:hover, .comment-button:hover, .button-grow:hover {
+  transform: scale(1.2);
+}
+
+.upload-panel-drop-box {
+  background: #F8F8F8;
+  border: 5px dashed #DDD;
+  width: 100%;
+  text-align: center;
+  padding: 4px;
+}
+
+.upload-panel-dragover {
+    border: 5px dashed #428bca;
+}
+
+.upload-panel-progress {
+  height: 8px;
+  margin: 2px 0px;
+}
+
+.upload-panel-row-body {
+  padding: 4px;
+  border-top: 1px solid rgb(221, 221, 221);
+}
+
+.upload-panel-row-title, .upload-panel-row-hover:hover {
+  background-color: rgba(255,255,255,0.5);
+}
+
+.upload-panel-block {
+  margin: 2px 0px;
+}
+
+.activity-type-icon-dropdown {
+  margin-top: -3px;
+  margin-bottom: -2px;
+}
+
+.notification a {
+  width: 350px;
+  max-width: 100%;
+  white-space: normal !important;
+}
+
+.notification span {
+  display: inline-block;
+  width: 75px;
+  text-align: center;
+}
+
+.notification-viewed a {
+  color: #999 !important;
+}
+
+.notification-viewed img {
+  opacity: 0.5;
+}
+
+.no-decoration {
+  color: rgb(51, 51, 51);
+  text-decoration: none !important;
+}
+
+.checkbox-inline[disabled] {
+    opacity: 0.5;
+}
+
+.btn-strava {
+  background-color: rgb(242,115,61) !important;
+}
+
+.btn-strava:hover {
+  background-color: rgb(252,76,2) !important;
+}

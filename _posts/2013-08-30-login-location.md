@@ -10,19 +10,19 @@ Firstly, thanks to all the users who have been uploading, testing and sharing Do
 
 ### Log In UX
 
-![Log In]({{ site.url }}/assets/2013-08-30-login.jpg)
+![Log In]({{ site.baseurl }}/assets/2013-08-30-login.jpg)
 
 The menus at **doarama.com** now clearly indicate whether or not you are logged in. 
 
 ### Upload
 
-![Upload]({{ site.url }}/assets/2013-08-30-upload.jpg)
+![Upload]({{ site.baseurl }}/assets/2013-08-30-upload.jpg)
 
 The upload page will now check gps track files are valid before they are uploaded to **doarama.com**.  Please report any problem files to support@doarama.com.
 
 ### Location
 
-![Locations]({{ site.url }}/assets/2013-08-30-location.jpg)
+![Locations]({{ site.baseurl }}/assets/2013-08-30-location.jpg)
 
 Locations of activities are now recorded when you upload a file.
 

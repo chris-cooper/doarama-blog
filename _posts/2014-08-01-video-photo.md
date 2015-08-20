@@ -17,15 +17,15 @@ Let's start with a couple of examples (click to view).
 
 First up is Don Vella mountain biking on the Oaks Fire Trail single track in the Blue Mountains west of Sydney, Australia.
 
-[![Mountain Biking]({{ site.url }}/assets/2014-08-01-mtb.jpg)](http://www.doarama.com/view/8135)
+[![Mountain Biking]({{ site.baseurl }}/assets/2014-08-01-mtb.jpg)](http://www.doarama.com/view/8135)
 
 Next is Simon Wilks with a Wing Wing Z-84 autonomous flight in the Swiss Alps.  More detail on this flight can be found [here](https://www.youtube.com/watch?v=RK6j2pEe-xM)
 
-[![Autonomous Flight]({{ site.url }}/assets/2014-08-01-autonomous.jpg)](http://www.doarama.com/view/8138)
+[![Autonomous Flight]({{ site.baseurl }}/assets/2014-08-01-autonomous.jpg)](http://www.doarama.com/view/8138)
 
 Finally, here is a bike ride by Chris Cooper in north western Sydney showing some photos and comments along the way.
 
-[![Bike Ride]({{ site.url }}/assets/2014-08-01-bike.jpg)](http://www.doarama.com/view/8140)
+[![Bike Ride]({{ site.baseurl }}/assets/2014-08-01-bike.jpg)](http://www.doarama.com/view/8140)
 
 Many thanks to Don, Simon and Chris for providing these examples which have been extremely helpful during development.
 
@@ -42,4 +42,4 @@ There are a number of changes included in this rollout, and we'll continue to wo
 There have also been some updates to the [Doarama Terms of Use](http://www.doarama.com/terms) to support the use of photos and videos.
 The Doarama API will also be updated to support the new photo, video and text comment functionality in due course.
 
-![Edit UI]({{ site.url }}/assets/2014-08-01-edit-ui.jpg)
+![Edit UI]({{ site.baseurl }}/assets/2014-08-01-edit-ui.jpg)

@@ -1,4 +1,9 @@
 body {
+  background: url("/assets/images/globe.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-family: 'Roboto', arial, sans-serif;
   font-weight: 300;
   font-size: 13px;

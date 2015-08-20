@@ -9,7 +9,7 @@ tags:
 ---
 
 
-![Coupe Icare]({{ site.url }}/assets/2013-09-20-coupe-icare.jpg)
+![Coupe Icare]({{ site.baseurl }}/assets/2013-09-20-coupe-icare.jpg)
 
 ### YALLDO Flying and the 40th Coupe Icare
 
