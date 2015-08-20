@@ -7,7 +7,7 @@ tags:
 - technical
 ---
 
-[![Elevation]({{ site.baseurl }}/assets/2014-04-16-elevation.jpg)](http://www.doarama.com/view/2171)
+[![Elevation](/assets/2014-04-16-elevation.jpg)](http://www.doarama.com/view/2171)
 
 Regular Doarama&trade; users may have noticed some subtle changes which we have just rolled out.
 

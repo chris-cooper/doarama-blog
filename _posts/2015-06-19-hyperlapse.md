@@ -20,5 +20,5 @@ Since hyperlapse video is so complementary to the Doarama&trade; experience, we 
 
 When synchronizing your video, just enter the same speedup factor that you used in the hyperlapse software into the **Video speed** field.  Note that Microsoft's Hyperlapse algorithm does tend to smooth the movement so synchronization may drift, particularly during stop-start motion.
 
-![Hyperlapse]({{ site.baseurl }}/assets/2015-06-19-hyperlapse.png)
+![Hyperlapse](/assets/2015-06-19-hyperlapse.png)
 

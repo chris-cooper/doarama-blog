@@ -7,7 +7,7 @@ tags:
 - news
 ---
 
-[![Tom Weissenberger]({{ site.baseurl }}/assets/2013-12-09-tom-weissenberger.jpg)](http://www.doarama.com/view/2860)
+[![Tom Weissenberger](/assets/2013-12-09-tom-weissenberger.jpg)](http://www.doarama.com/view/2860)
 
 Congratulations to Tom Weissenberger, who on 3 November 2013 flew 353km out and back for a hang-gliding world record in Chile.
 Tom recently [uploaded his GPS track to Doarama&trade;](http://www.doarama.com/view/2860) where you can now see it online by

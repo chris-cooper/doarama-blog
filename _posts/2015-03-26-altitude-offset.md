@@ -8,7 +8,7 @@ tags:
 ---
 
 []()
-![Altitude Offset]({{ site.baseurl }}/assets/2015-03-26-altitude-offset.jpg)
+![Altitude Offset](/assets/2015-03-26-altitude-offset.jpg)
 
 Based on feedback from users there have been a few changes made to the way we handle aerial activities in Doarama&trade;.
 

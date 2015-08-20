@@ -8,7 +8,7 @@ tags:
 ---
 
 []()
-![Bulk uploads]({{ site.baseurl }}/assets/2015-02-13-bulk-upload.jpg)
+![Bulk uploads](/assets/2015-02-13-bulk-upload.jpg)
 
 Welcome to Doarama&trade; in 2015, and thanks for your ongoing support and use of the service in 2014!
 
