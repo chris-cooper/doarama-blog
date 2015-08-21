@@ -14,6 +14,6 @@ We've updated our support for Virtual Reality devices in Doarama&trade;. We've i
 
 To get started using VR on a mobile device, ideally you'll need to grab yourself a Google Cardboard (or something similar). On your mobile, load up a Doarama&trade; visualization, hit the "VR Mode" button and then place your device in the Cardboard. To exit VR Mode, either hit the "back" button or hold a touch on the screen for 2 seconds.
 
-Please be aware that this is all still a very _experimental_ and may not offer consistent results across different devices. [Let us know](mailto:support@doarama.com) if things aren't behaving themselves and we'll look into it.
+Please be aware that _this is all still very experimental_ and may not offer consistent results across different devices. [Let us know](mailto:support@doarama.com) if things aren't behaving themselves and we'll look into it.
 
 ![VR Mode Button](/assets/2015-08-30-vr-button.png)
